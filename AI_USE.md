@@ -1,0 +1,1 @@
+I used Gemini to help generate data cleaning code and good visuals. I reviewed the code and discarded extra analyses that Gemini made on it's own, corrected the charts since Gemini created some graphs based on it's own conclusions on the data.
